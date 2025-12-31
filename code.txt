@@ -1,4 +1,8 @@
 CODES:
 
-FFTACT:		Final Fantasy Tactics
-OPENMW:		Morrowind (OpenMW)
+VANIA3:			Castlevania 3 (fceux)
+FFTACT:			Final Fantasy Tactics (duckstation)
+DEUSX:			Deus Ex - GOTY edition (steam)
+HMAN2:			Hitman 2 Silent Assassin (steam)
+SPLINTR:		Splinter Cell (steam)
+OPENMW:			Morrowind (OpenMW)
