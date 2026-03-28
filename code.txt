@@ -6,20 +6,21 @@ ine. Change the version in EMU or specify for edge cases in the parentheses, for
 any game. It's good for many reasons other, besides that.
 
 
-VANIA3:			Castlevania 3 (nes, apt)
-FFTACT:			Final Fantasy Tactics (duck)
-DEUSX:			Deus Ex - GOTY edition (steam)
-HMAN2:			Hitman 2 Silent Assassin (steam)
-SPLINTR:		Splinter Cell (steam)
-OPENMW:			Morrowind (OpenMW)
-NATOR:			Cybernator (snes)
+VANIA3:   Castlevania 3 (fceux, apt)
+FFTACT:   Final Fantasy Tactics (duck)
+DEUSX:    Deus Ex - GOTY edition (steam)
+HMAN2:    Hitman 2 Silent Assassin (steam)
+SPLINTR:  Splinter Cell (steam)
+OPENMW:   Morrowind (OpenMW)
+NATOR:    Cybernator (bsnes)
+VSTORY:   Vagrant Story (duck)
 
 
 GNU:
-apt:                    Aptitude - Debian package manager
+apt:  Aptitude - Debian package manager
 
 
-EMU:
-nes:                    fceux
-snes:                   bsnes-nightly v115
-duck:                   DuckStation emulator
+EMU:  type, code
+nes:   fceux
+snes:  bsnes-nightly v115 (bsnes)
+psx:   DuckStation emulator (duck)
