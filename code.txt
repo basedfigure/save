@@ -14,13 +14,14 @@ SPLINTR:  Splinter Cell (steam)
 OPENMW:   Morrowind (OpenMW)
 NATOR:    Cybernator (bsnes)
 VSTORY:   Vagrant Story (duck)
+MEGAX4:   Mega Man X4 (duck)
 
 
 GNU:
 apt:  Aptitude - Debian package manager
 
 
-EMU:  type, code
-nes:   fceux
+EMU:   type, code
+nes:   FCEUX (fceux)
 snes:  bsnes-nightly v115 (bsnes)
 psx:   DuckStation emulator (duck)
